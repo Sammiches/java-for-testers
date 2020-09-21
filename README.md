@@ -1,1 +1,1 @@
-# java-for-testers
+# java-for-QA
